@@ -1,0 +1,11 @@
+﻿빌드 시작: 2017-10-18 오후 8:34:28
+     1>2 노드의 "C:\Users\JoWookJae\Documents\Visual Studio 2012\Projects\VirusImage\VirusImage\VirusImage.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt VirusImage.cpp
+         VirusImage.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\atlmfc\include\afx.h(24): fatal error C1189: #error :  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+     1>"C:\Users\JoWookJae\Documents\Visual Studio 2012\Projects\VirusImage\VirusImage\VirusImage.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.14
